@@ -1,129 +1,109 @@
-````md
-# 👨‍🚀 Naman Sharma | Systems Explorer
+
 
 ```
-╔══════════════════════════════════════╗
-║  INITIATING PROFILE SEQUENCE...      ║
-║  USER: NAMAN                         ║
-║  DOMAIN: SOFTWARE // SECURITY        ║
-║  STATUS: LEARNING & BUILDING         ║
-╚══════════════════════════════════════╝
-````
+# 🌌 Naman Sharma
 
-## 🌌 About Me
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ5dGZ4cWQ2dWZ5dGRqN2M4b2J6dG9vY3J5a3R3YjR6d3F0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
-Greetings, traveler 👋
+### `SYSTEM ONLINE`
 
-I'm Naman — a Computer Science student exploring the hidden layers of technology.
+> Exploring the space between software, security, and low-level systems.
 
-I don't just want to use systems.
-I want to understand what happens beneath the surface.
+I'm a Computer Science student focused on understanding how technology works beneath the surface — building tools, analyzing systems, and exploring security.
 
-My current mission:
+Currently exploring:
 
-```yaml
-Core_Programming:
-  - C++
-  - Object Oriented Programming
-  - Data Structures & Algorithms
+🧠 Data Structures & Algorithms  
+⚙️ C++ & System Programming  
+🐍 Python Automation  
+🔐 Cybersecurity & Vulnerability Research  
+🔎 Reverse Engineering & Binary Analysis  
+🚗 Automotive Security (CAN / UDS / ECU)
 
-Automation:
-  - Python scripting
-  - Tool development
+---
 
-Security:
-  - Cybersecurity
-  - Vulnerability research
-  - Bug bounty methodology
+## 🛰️ CURRENT MISSION
 
-Deep_Systems:
-  - Reverse Engineering
-  - Binary Analysis
-  - System Internals
+```
 
-Automotive:
-  - CAN Bus
-  - UDS
-  - DTC Analysis
-  - ECU Security Research
+[+] Decode unknown systems
+[+] Analyze software behaviour
+[+] Discover vulnerabilities
+[+] Build useful tools
+[+] Improve every day
+
 ```
 
 ---
 
-## 🛰️ Current Research Log
+## ⚡ TECH STACK
 
-```text
-[+] Studying how software communicates
-[+] Breaking down binaries
-[+] Exploring attack surfaces
-[+] Automating repetitive tasks
-[+] Understanding protocols from the inside
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,bash,linux,git,vscode" />
+
+</div>
+
+---
+
+## 🔬 RESEARCH LOG
+
+| Area | Exploring |
+|---|---|
+| 🛡 Security | Bug bounty, vulnerabilities, attack surfaces |
+| 🧩 Reverse Engineering | ELF binaries, analysis, debugging |
+| 🚘 Automotive | CAN bus, UDS, ECU communication |
+| 🛠 Automation | Python tools and scripting |
+
+---
+
+## 🚀 PROJECT ARCHIVE
+
+### 🔐 CipherIt
+Encrypted file handling utility focused on secure data processing.
+
+### 🚗 Automotive Security Lab
+Researching vehicle communication protocols and ECU behaviour.
+
+### 🧩 Reverse Engineering Lab
+Learning binary analysis, debugging, and software internals.
+
+---
+
+## 📡 CONNECT
+
+<div align="center">
+
+<a href="https://linkedin.com/in/Naman_Sharma-Yup">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ns580654@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+## 📊 SYSTEM METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=learningcoder05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img src="https://streak-stats.demolab.com/?user=learningcoder05&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `"Curiosity is the first exploit."`
+
+![Profile Views](https://komarev.com/ghpvc/?username=learningcoder05&style=flat-square)
+
+</div>
 ```
-
----
-
-## ⚔️ Tech Arsenal
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-</p>
-
----
-
-## 🧬 Projects & Experiments
-
-```text
-╭────────────────────────────╮
-│ PROJECT DATABASE            │
-╰────────────────────────────╯
-
-🔐 CipherIt
-   File encryption/decryption utility
-
-🚗 Automotive Security Lab
-   CAN, UDS and ECU exploration
-
-🧩 Reverse Engineering
-   Binary analysis and challenge solving
-
-⚙️ Automation Tools
-   Python-based utilities
-```
-
----
-
-## 📡 Transmission Channel
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Naman_Sharma-Yup)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ns580654@gmail.com)
-
----
-
-## 📊 System Statistics
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=learningcoder05\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=learningcoder05\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🧠 Mission Objective
-
-```text
-Build systems.
-Understand systems.
-Secure systems.
-
-[ END OF TRANSMISSION ]
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=learningcoder05\&color=blue)
-
 
