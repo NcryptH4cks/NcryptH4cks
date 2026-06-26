@@ -126,7 +126,4 @@ Secure systems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=learningcoder05\&color=blue)
 
-```
 
-This will look like a **sci-fi engineering console** rather than a generic developer template. It also matches your actual path instead of pretending you're a full-stack developer or "AI engineer".
-```
