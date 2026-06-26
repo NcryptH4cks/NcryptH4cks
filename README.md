@@ -1,7 +1,7 @@
 ````md
 # 👨‍🚀 Naman Sharma | Systems Explorer
 
-```text
+```
 ╔══════════════════════════════════════╗
 ║  INITIATING PROFILE SEQUENCE...      ║
 ║  USER: NAMAN                         ║
