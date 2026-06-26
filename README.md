@@ -1,36 +1,132 @@
-# 💫 About Me:
-# About Me<br><br>Hi 👋 I'm Naman Sharma, a Computer Science student who enjoys understanding how technology works from both the development and security perspective.<br><br>I like building things, breaking things, and learning how systems behave internally.<br><br>My current areas of exploration include:<br><br>- 💻 C++ development & Object-Oriented Programming<br>- 🧠 Data Structures & Algorithms<br>- 🐍 Python scripting and automation<br>- 🔐 Cybersecurity and security research<br>- 🔎 Reverse engineering and binary analysis<br>- 🚗 Automotive cybersecurity — CAN Bus, UDS, DTC analysis & ECU security<br><br>I've worked on projects involving software development, automation, and security experimentation. Recently, I've been diving deeper into low-level concepts — analyzing binaries, understanding protocols, exploring reverse engineering workflows, and learning how attackers and defenders think.<br><br>I enjoy:<br>- Solving CTF-style challenges<br>- Exploring vulnerabilities and attack surfaces<br>- Automating repetitive tasks with code<br>- Understanding systems beyond the surface level<br><br>Currently improving my skills in:<br>- Reverse Engineering<br>- Bug Bounty methodology<br>- Vulnerability Research<br>- System Internals<br>- Security Testing<br><br>My goal is to become an engineer who can build reliable systems and understand how to analyze and secure them.<br><br>⚡ Always learning. Always experimenting.
+````md
+# 👨‍🚀 Naman Sharma | Systems Explorer
 
+```text
+╔══════════════════════════════════════╗
+║  INITIATING PROFILE SEQUENCE...      ║
+║  USER: NAMAN                         ║
+║  DOMAIN: SOFTWARE // SECURITY        ║
+║  STATUS: LEARNING & BUILDING         ║
+╚══════════════════════════════════════╝
+````
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_naman05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Naman_Sharma-Yup) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ns580654@gmail.com) 
+## 🌌 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=learningcoder05&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=learningcoder05&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=learningcoder05&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Greetings, traveler 👋
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm Naman — a Computer Science student exploring the hidden layers of technology.
+
+I don't just want to use systems.
+I want to understand what happens beneath the surface.
+
+My current mission:
+
+```yaml
+Core_Programming:
+  - C++
+  - Object Oriented Programming
+  - Data Structures & Algorithms
+
+Automation:
+  - Python scripting
+  - Tool development
+
+Security:
+  - Cybersecurity
+  - Vulnerability research
+  - Bug bounty methodology
+
+Deep_Systems:
+  - Reverse Engineering
+  - Binary Analysis
+  - System Internals
+
+Automotive:
+  - CAN Bus
+  - UDS
+  - DTC Analysis
+  - ECU Security Research
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=learningcoder05&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛰️ Current Research Log
 
-<!--
-**learningcoder05/learningcoder05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+[+] Studying how software communicates
+[+] Breaking down binaries
+[+] Exploring attack surfaces
+[+] Automating repetitive tasks
+[+] Understanding protocols from the inside
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚔️ Tech Arsenal
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+</p>
+
+---
+
+## 🧬 Projects & Experiments
+
+```text
+╭────────────────────────────╮
+│ PROJECT DATABASE            │
+╰────────────────────────────╯
+
+🔐 CipherIt
+   File encryption/decryption utility
+
+🚗 Automotive Security Lab
+   CAN, UDS and ECU exploration
+
+🧩 Reverse Engineering
+   Binary analysis and challenge solving
+
+⚙️ Automation Tools
+   Python-based utilities
+```
+
+---
+
+## 📡 Transmission Channel
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Naman_Sharma-Yup)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ns580654@gmail.com)
+
+---
+
+## 📊 System Statistics
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=learningcoder05\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=learningcoder05\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🧠 Mission Objective
+
+```text
+Build systems.
+Understand systems.
+Secure systems.
+
+[ END OF TRANSMISSION ]
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=learningcoder05\&color=blue)
+
+```
+
+This will look like a **sci-fi engineering console** rather than a generic developer template. It also matches your actual path instead of pretending you're a full-stack developer or "AI engineer".
+```
