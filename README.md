@@ -49,7 +49,7 @@ Learning binary analysis and system internals.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.shion.dev/api?username=NcyptH4cks&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.shion.dev/api?username=NcryptH4cks&theme=tokyonight&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=NcryptH4cks&theme=tokyonight&hide_border=true)
 
