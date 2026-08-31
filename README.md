@@ -45,13 +45,13 @@ Learning binary analysis and system internals.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Naman_Sharma-Yup)
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ns580654@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:namansh5806@gmail.com)
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.shion.dev/api?username=learningcoder05&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.shion.dev/api?username=NcyptH4cks&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=learningcoder05&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=NcryptH4cks&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -59,6 +59,6 @@ Learning binary analysis and system internals.
 
 "Curiosity is the first exploit."
 
-![Profile Views](https://komarev.com/ghpvc/?username=learningcoder05&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=NcryptH4cks&style=flat-square)
 
 </div>
